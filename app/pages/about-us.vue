@@ -8,7 +8,7 @@
       </div>
 
       <div class="site-max-bounds hero-inner-container">
-        <div class="hero-content-pack reveal reveal-slide-up">
+        <div class="hero-content-pack reveal reveal-slide-up reveal-active">
           <span class="hero-eyebrow-tag">THE RISE BEGINS HERE</span>
           <h1 class="hero-main-title">
             India's<span class="text-gold"> People-First</span><br />
@@ -35,7 +35,7 @@
           </div>
           
           <div class="brand-narrative-grid">
-            <div class="narrative-main-card">
+            <div class="narrative-main-card reveal reveal-slide-up delay-1">
               <p class="narrative-lead">
                 India Rise was built by people who had spent enough time inside this industry to know what was not working.
               </p>
@@ -43,7 +43,7 @@
                 Products that existed to be pitched, not used. Structures that rewarded recruitment over everything else. People who worked hard and still could not make sense of what they were earning or why.
               </p>
             </div>
-            <div class="narrative-side-card">
+            <div class="narrative-side-card reveal reveal-slide-up delay-2">
               <p class="narrative-body">
                 We started over. Products that people want in their daily lives came first. A structure that is easy to follow came second. And from the beginning, the people building this platform with us have been treated as partners, not pipeline.
               </p>
@@ -64,23 +64,23 @@
         </div>
 
         <div class="vm-interlocking-container">
-          <div class="vm-card-block vm-vision-banner reveal reveal-slide-up">
+          <div class="vm-card-block vm-vision-banner reveal reveal-slide-up delay-1">
             <div class="vm-accent-label">THE VISION</div>
             <h3>To build a platform where network commerce means something worth trusting, with products people genuinely use and an opportunity people can genuinely build on.</h3>
           </div>
 
-          <div class="vm-card-block vm-mission-banner reveal reveal-slide-up">
+          <div class="vm-card-block vm-mission-banner reveal reveal-slide-up delay-2">
             <div class="vm-accent-label text-cobalt">THE MISSION</div>
             <div class="mission-manifesto-stack">
-              <div class="mission-manifesto-row">
+              <div class="mission-manifesto-row reveal reveal-slide-up delay-1">
                 <span class="manifesto-num">01</span>
                 <p>To offer products that add real value to people's daily lives, not just to their sales pitch.</p>
               </div>
-              <div class="mission-manifesto-row">
+              <div class="mission-manifesto-row reveal reveal-slide-up delay-2">
                 <span class="manifesto-num">02</span>
                 <p>To give every partner a clear path to income, regardless of where they start.</p>
               </div>
-              <div class="mission-manifesto-row">
+              <div class="mission-manifesto-row reveal reveal-slide-up delay-3">
                 <span class="manifesto-num">03</span>
                 <p>To run this platform in a way that people feel comfortable recommending to someone they care about.</p>
               </div>
@@ -98,7 +98,7 @@
         </div>
 
         <div class="integrated-principles-flow">
-          <div class="principle-unified-card brand-cobalt-strip reveal reveal-slide-up">
+          <div class="principle-unified-card brand-cobalt-strip reveal reveal-slide-up delay-1">
             <div class="unified-meta-zone">
               <span class="unified-number">01</span>
               <span class="unified-label">CORE FOUNDATION</span>
@@ -109,7 +109,7 @@
             </div>
           </div>
 
-          <div class="principle-unified-card clean-white-strip reveal reveal-slide-up">
+          <div class="principle-unified-card clean-white-strip reveal reveal-slide-up delay-2">
             <div class="unified-meta-zone">
               <span class="unified-number text-cobalt">02</span>
               <span class="unified-label text-muted">OPERATIONAL CODE</span>
@@ -120,7 +120,7 @@
             </div>
           </div>
 
-          <div class="principle-unified-card deep-charcoal-strip reveal reveal-slide-up">
+          <div class="principle-unified-card deep-charcoal-strip reveal reveal-slide-up delay-3">
             <div class="unified-meta-zone">
               <span class="unified-number text-gold">03</span>
               <span class="unified-label text-gold">CULTURE & ETHICS</span>
@@ -143,7 +143,7 @@
         </div>
 
         <div class="portfolio-dynamic-layout">
-          <div class="portfolio-flex-item reveal reveal-slide-up">
+          <div class="portfolio-flex-item reveal reveal-slide-up delay-1">
             <div class="portfolio-media-pane">
               <img src="/images/watch.png" alt="Precision Timepieces" />
             </div>
@@ -153,7 +153,7 @@
             </div>
           </div>
 
-          <div class="portfolio-flex-item reveal reveal-slide-up">
+          <div class="portfolio-flex-item reveal reveal-slide-up delay-2">
             <div class="portfolio-media-pane">
               <img src="/images/jewellery.png" alt="Personal Jewellery" />
             </div>
@@ -163,7 +163,7 @@
             </div>
           </div>
 
-          <div class="portfolio-flex-item reveal reveal-slide-up">
+          <div class="portfolio-flex-item reveal reveal-slide-up delay-3">
             <div class="portfolio-media-pane">
               <img src="/images/beauty.png" alt="Skin and Self-Care" />
             </div>
@@ -173,7 +173,7 @@
             </div>
           </div>
 
-          <div class="portfolio-flex-item reveal reveal-slide-up highlight-border-wrap">
+          <div class="portfolio-flex-item reveal reveal-slide-up delay-4">
             <div class="portfolio-media-pane">
               <img src="/images/dining.png" alt="Table and Home" />
             </div>
@@ -191,7 +191,7 @@
         <div class="compliance-solid-box reveal reveal-scale-up">
           <div class="compliance-layout-inner">
             
-            <div class="compliance-copy-block">
+            <div class="compliance-copy-block reveal reveal-slide-up delay-1">
               <span class="compliance-accent-lbl">BUILT RIGHT</span>
               <h2>Structured with the Long Term in Mind</h2>
               <p>India Rise is built in alignment with India's direct selling guidelines. Not as an afterthought, but as part of how we designed the platform from the ground up.</p>
@@ -205,7 +205,7 @@
               </div>
             </div>
 
-            <div class="compliance-image-block">
+            <div class="compliance-image-block reveal reveal-slide-up delay-2">
               <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=600" alt="Long Term Infrastructure Foundation" class="compliance-side-img" />
             </div>
 
@@ -217,7 +217,7 @@
     <section class="ultimate-cta-architectural">
       <div class="site-max-bounds">
         <div class="cta-shield-frame reveal reveal-slide-up">
-          <div class="cta-inner-alignment">
+          <div class="cta-inner-alignment reveal reveal-slide-up delay-1">
             <h2>Start Where You Are</h2>
             <p>Whether you are coming in with years of experience or completely new to this, India Rise is built to grow with you. The products are genuine. The structure is clear. The opportunity is yours to build.</p>
             <div class="cta-trigger-wrapper">
@@ -239,8 +239,8 @@ onMounted(() => {
 
   const options = {
     root: null,
-    threshold: 0.02,
-    rootMargin: "0px 0px -10px 0px"
+    threshold: 0.05, // Raised slightly so elements wait to build context before showing
+    rootMargin: "0px 0px -12% 0px" // Creates a safe offset at the page bottom to hold off execution
   };
 
   const scrollObserver = new IntersectionObserver((entries, observer) => {
@@ -332,8 +332,8 @@ onMounted(() => {
 .portfolio-flex-item,
 .compliance-solid-box,
 .cta-shield-frame {
-  transition: transform 0.4s cubic-bezier(0.215, 0.610, 0.355, 1.000), 
-              box-shadow 0.4s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
+              box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1);
   will-change: transform, box-shadow;
 }
 
@@ -887,22 +887,31 @@ onMounted(() => {
 }
 
 /* ==========================================================================
-   SCROLL REVEAL TIMINGS (REFINED SMOOTH MOTION FLUIDITY)
+   SCROLL REVEAL DRIVEN INFRASTRUCTURE (REFINED PRECISE OFFSETS)
    ========================================================================== */
 .reveal {
   opacity: 0;
   will-change: transform, opacity;
-  transition: opacity 0.85s cubic-bezier(0.215, 0.610, 0.355, 1.000), 
-              transform 0.85s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+  /* Deep, fluid cubic-bezier curve that accentuates the viewport scrolling effect */
+  transition: opacity 1.1s cubic-bezier(0.16, 1, 0.3, 1), 
+              transform 1.1s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.reveal-slide-up { transform: translateY(24px); }
-.reveal-scale-up { transform: scale(0.98); }
+/* Increased drop vector to 40px so it drifts gracefully upwards when active */
+.reveal-slide-up { transform: translateY(40px); }
+.reveal-scale-up { transform: scale(0.96); }
 
+/* The trigger state pushed strictly by the Vue intersection observer */
 .reveal.reveal-active {
   opacity: 1;
-  transform: translate(0) scale(1);
+  transform: translateY(0) scale(1);
 }
+
+/* Custom Micro-Delays system to break simultaneous blocks */
+.reveal.delay-1 { transition-delay: 0.15s; }
+.reveal.delay-2 { transition-delay: 0.3s; }
+.reveal.delay-3 { transition-delay: 0.45s; }
+.reveal.delay-4 { transition-delay: 0.6s; }
 
 /* ==========================================================================
    RESPONSIVE DESIGN ADAPTATIONS
