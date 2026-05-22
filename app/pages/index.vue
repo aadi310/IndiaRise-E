@@ -1,6 +1,7 @@
 <template>
   <div class="india-rise-premium-portal">
 
+    
     <header class="portal-nav-header">
       <div class="site-max-bounds nav-inner-bounds">
         <a href="/" class="nav-logo-link">
