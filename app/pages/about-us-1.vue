@@ -1,6 +1,14 @@
 <template>
   <div class="india-rise-premium-portal">
 
+    <header class="platform-navigation-bar">
+      <div class="site-max-bounds navigation-flex-container">
+        <div class="brand-identity-block">
+          <img src="/images/india-rise-logo.png" alt="India Rise Logo" class="brand-logo-image" />
+        </div>
+      </div>
+    </header>
+
     <section class="hero-light-canvas">
       <div class="site-max-bounds hero-inner-alignment">
         
@@ -311,6 +319,38 @@ onMounted(() => {
   margin: 0 auto;
   padding: 0 24px;
   box-sizing: border-box;
+}
+
+/* ==========================================================================
+   MINIMAL LOGO HEADER NAVIGATION STYLES
+   ========================================================================== */
+.platform-navigation-bar {
+  position: sticky;
+  top: 0;
+  z-index: 1100;
+  background-color: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-subtle);
+  width: 100%;
+}
+
+.navigation-flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Kept left-aligned, can be center if preferred */
+  height: 72px;
+}
+
+.brand-identity-block {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo-image {
+  height: 40px; /* Adapts cleanly to your header height */
+  width: auto;
+  display: block;
 }
 
 /* GLOBAL TYPOGRAPHY ACCENTS */
