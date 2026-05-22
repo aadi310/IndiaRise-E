@@ -1,15 +1,23 @@
 <template>
   <div class="india-rise-premium-portal">
 
+    <header class="portal-nav-header">
+      <div class="site-max-bounds nav-inner-bounds">
+        <a href="/" class="nav-logo-link">
+          <img src="/images/india-rise-logo.png" alt="India Rise Logo" class="nav-logo-img" />
+        </a>
+      </div>
+    </header>
+
     <section class="hero-cinematic-canvas">
       <div class="site-max-bounds">
         <div class="hero-split-grid">
           <div class="hero-content-pack reveal reveal-slide-up reveal-active">
             <span class="hero-eyebrow-tag">THE RISE BEGINS HERE</span>
             <h1 class="hero-main-title">
-  India's <span class="title-brand-accent">People-First</span><br />
-  Network <span style="color: var(--emerald-green);">Commerce Movement</span>
-</h1>
+              India's <span class="title-brand-accent">People-First</span><br />
+              Network <span style="color: var(--emerald-green);">Commerce Movement</span>
+            </h1>
             <p class="hero-paragraph">
               India Rise is a network commerce platform that brings together a portfolio of lifestyle products and a business structure designed to grow with you.
             </p>
@@ -298,6 +306,42 @@ onMounted(() => {
   margin: 0 auto;
   padding: 0 24px;
   box-sizing: border-box;
+}
+
+/* =========================================================
+   NAVIGATION HEADER
+========================================================= */
+.portal-nav-header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-soft);
+  padding: 16px 0;
+}
+
+.nav-inner-bounds {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav-logo-link {
+  display: inline-flex;
+  transition: opacity 0.2s ease;
+}
+
+.nav-logo-link:hover {
+  opacity: 0.85;
+}
+
+.nav-logo-img {
+  height: 40px;
+  width: auto;
+  display: block;
 }
 
 /* =========================================================
@@ -1042,6 +1086,10 @@ section {
   .hero-action-cluster .btn-premium-cobalt {
     width: 100%;
     text-align: center;
+  }
+  
+  .nav-logo-img {
+    height: 32px;
   }
 }
 </style>
